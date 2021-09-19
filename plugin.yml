@@ -1,0 +1,5 @@
+name: GlowstoneArmor
+version: 1.0-BETA
+api: 4.0.0
+main: unnyancat\glowstonearmor\Main
+author: UnChatSauvage
